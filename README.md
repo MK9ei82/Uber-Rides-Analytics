@@ -2,6 +2,9 @@
 The objective of this project is to perform data analytics on uber rides data using Python, Mage Data Pipeline, GCP (Compute Instance, BigQuery, Looker BI) 
 
 # Data Pipeline Architecture
+<p>
+  <img width="600" src="https://github.com/MK9ei82/Uber-Rides-Analytics/blob/main/misc/Data_pipeline_architecture.png" />
+</p>
 
 # Languages and Tools used
 1. Python
