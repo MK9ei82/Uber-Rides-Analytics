@@ -4,6 +4,7 @@ The objective of this project is to perform data analytics on uber rides data us
 # Data Pipeline Architecture
 <p>
   <img width="600" src="https://github.com/MK9ei82/Uber-Rides-Analytics/blob/main/misc/Data_pipeline_architecture.png" />
+  <img src = "https://github.com/MK9ei82/Uber-Rides-Analytics/blob/main/misc/data_model_erd_diagram_script_generated.png">
 </p>
 
 # Languages and Tools used
