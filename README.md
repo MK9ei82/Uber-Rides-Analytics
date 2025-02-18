@@ -6,8 +6,11 @@ This project demonstrates a scalable ETL pipeline for Uber ride data using Mage 
 
 # Data Pipeline Architecture
 1️. Data Ingestion – Raw trip data from TLC Taxi Records is loaded into Google Cloud Storage (GCS).
+
 2️. Processing & Transformation – Mage AI orchestrates data transformations using Python and Pandas.
+
 3️. Data Warehousing – Transformed data is loaded into BigQuery for analysis.
+
 4️. Analytics & Visualization – Looker Studio connects to BigQuery to generate real-time dashboards.
 
 <p>
