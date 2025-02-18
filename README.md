@@ -59,7 +59,9 @@ Developed a interactive dashboard that shows key metrics and a map that shows th
 
 The interactive dashboard enables stakeholders to:
 ✔ Analyze trip frequency by time of day
+
 ✔ Compare cash vs. credit card payments
+
 ✔ Identify high-demand ride locations
 
  Live Dashboard: https://lookerstudio.google.com/reporting/d7c0b966-5359-4dd0-95e0-6104e4f48af1/page/RtbuE
