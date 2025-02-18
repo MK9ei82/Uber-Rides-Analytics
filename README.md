@@ -47,3 +47,8 @@ Shows visualization for key metrics and pickup location bubbles for cash payment
 Shows visualization for key metrics and pickup location bubbles for credit card payments and rate code is JFK.
 
 <img width="600" src="https://github.com/MK9ei82/Uber-Rides-Analytics/blob/main/misc/credit_card_and_jfk.png"/>
+
+Various Bar charts employing different metrics
+
+<img width="600" src="https://github.com/MK9ei82/Uber-Rides-Analytics/blob/main/misc/Bar%20charts%20employing%20various%20metrics.png"/>
+
