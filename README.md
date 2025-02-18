@@ -2,7 +2,7 @@
 https://lookerstudio.google.com/reporting/d7c0b966-5359-4dd0-95e0-6104e4f48af1/page/RtbuE
 
 # Uber-Rides-Analytics on GCP
-The objective of this project is to perform data analytics on uber rides data using Python, Mage Data Pipeline, GCP (Compute Instance, BigQuery, Looker BI) 
+The objective of this project is to perform data analytics on uber rides data based in NYC using Python, Mage Data Pipeline, GCP (Compute Instance, BigQuery, Looker BI) 
 
 # Data Pipeline Architecture
 <p>
