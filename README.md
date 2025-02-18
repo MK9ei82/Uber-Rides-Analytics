@@ -2,7 +2,7 @@
 https://lookerstudio.google.com/reporting/d7c0b966-5359-4dd0-95e0-6104e4f48af1/page/RtbuE
 
 # Uber-Rides-Analytics on GCP
-The objective of this project is to perform data analytics on uber rides data based in NYC using Python, Mage Data Pipeline, GCP (Compute Instance, BigQuery, Looker BI) 
+This project analyzes Uber ride data to uncover trends, peak usage times, and other insights that can help improve ride allocation and pricing strategies.
 
 # Data Pipeline Architecture
 <p>
@@ -10,7 +10,7 @@ The objective of this project is to perform data analytics on uber rides data ba
 </p>
 
 # Languages and Tools used
-1. Python
+1. Python 🐍
 2. GCP (Compute Instance, Google Cloud Storage, BigQuery, Looker Studio BI)
 3. Mage AI for data pipeline (https://www.mage.ai/)
 
@@ -34,6 +34,7 @@ After the data has been loaded into BigQuery data warehouse sample queries have 
 
 <img width="600" src="https://github.com/MK9ei82/Uber-Rides-Analytics/blob/main/misc/sample_query_execution.png"/>
 <img width="300" src="https://github.com/MK9ei82/Uber-Rides-Analytics/blob/main/misc/top_10_pickup_locs.png"/>
+
 
 # Looker BI Dashboard
 Developed a interactive dashboard that shows key metrics and a map that shows the distribution of ride pickup locations. Various parameters such as trip distance, payment type, rate code and vendor ID can be selected to show corresponding visualizations.
